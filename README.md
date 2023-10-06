@@ -1,2 +1,2 @@
 # mpv.conf file
-A large collection of mpv settings with HW GPU settings for Linux and macOS.
+A collection of mpv settings, I have discovered with HW GPU settings for Linux and macOS.
